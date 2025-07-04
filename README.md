@@ -63,8 +63,5 @@ ByteMe is a comprehensive Canteen Management System designed to streamline the p
 - Shop card details are hardcoded for demo purposes but can be changed in the code.
 - The system prioritizes VIP customers when processing orders.
 
-## Screenshots
-> Add screenshots of the GUI here for better visualization.
-
 ## License
 This project is licensed under the terms of the [MIT License](LICENSE).
